@@ -1,0 +1,18 @@
+.bc-sf-filter-product-item-vendor {
+  display: none;
+}
+
+.bc-sf-filter-product-bottom.text-center .title a {
+  color: #333;
+  font-size: 13px;
+}
+
+.bc-sf-search-no-tabindex.fancybox-opened {
+  display: none !important;
+}
+
+@media only screen and (max-width: 768px) {
+.fancybox-wrap.fancybox-desktop.fancybox-type-inline.bc-sf-search-no-tabindex.fancybox-opened {
+    display: none;
+  }
+}
